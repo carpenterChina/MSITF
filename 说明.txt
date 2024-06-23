@@ -1,0 +1,64 @@
+1.环境
+python >= 3.6
+Pytorch >= 1.7
+torchvision >=1.10
+opencv-python == 4.5.3.56
+NVIDIA GPU + CUDA  [A100 CUDA 10.2]
+
+
+2.数据
+(1)训练数据：Vimeo-90K-T
+
+
+文件结构如下：
+--sequences
+       --00001
+           --0001
+               img1.png
+               img2.png
+               img3.png
+               img3.png
+               img5.png
+               img6.png
+               img7.png
+           --0002
+           --0003
+           ...
+           --1000
+       --00002
+       ...
+       --00096
+
+(2)数据降采样
+使用./data_scripts/generate_LR_Vimeo90K.m文件对数据集进行BD降采样。
+降采样后的文件结构与原数据文件结构一致
+
+
+
+(3)Vid4测试视频
+文件结构如下：
+  --GT
+    --calendar
+      --00000001.png
+      --00000002.png
+      --00000003.png
+      ...
+      --00000040.png
+    --city
+    --foliage
+    --walk
+
+===测试数据需要删除偶数帧===
+
+
+3.训练
+模型训练参数配置详细见"./options/train.yml"
+python bd7train.py
+
+4.测试
+python test.py
+
+测试视频路径test_dataset_folder和模型路径model_path在代码中配置
+
+
+======================================

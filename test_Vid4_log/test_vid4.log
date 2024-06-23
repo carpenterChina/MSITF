@@ -1,0 +1,182 @@
+23-01-10 08:42:43.389 - INFO: Data: Vid4 - /remote-home/cs_cs_lj/zhj/BasicSR/datasets/Vid4_matlab/matlab_BDx4/*
+23-01-10 08:42:43.389 - INFO: Padding mode: replicate
+23-01-10 08:42:43.389 - INFO: Model path: /remote-home/cs_cs_lj/zjj/bd_7mystvsr/experiments/bd7stvsr/models/595000_G.pth
+23-01-10 08:42:43.389 - INFO: Model parameters: 5.585611 M
+23-01-10 08:42:43.389 - INFO: Save images: False
+23-01-10 08:42:43.389 - INFO: Flip Test: False
+23-01-10 08:42:55.488 - INFO:   1 -                         1.png 	PSNR: 22.403154 dB  PSNR-Y: 24.060321 dB
+23-01-10 08:42:55.528 - INFO:   2 -                         2.png 	PSNR: 22.381349 dB  PSNR-Y: 24.083642 dB
+23-01-10 08:42:55.564 - INFO:   3 -                         3.png 	PSNR: 22.594812 dB  PSNR-Y: 24.263534 dB
+23-01-10 08:42:55.601 - INFO:   4 -                         4.png 	PSNR: 22.538739 dB  PSNR-Y: 24.245522 dB
+23-01-10 08:42:55.648 - INFO:   5 -                         5.png 	PSNR: 22.828023 dB  PSNR-Y: 24.529852 dB
+23-01-10 08:42:55.684 - INFO:   6 -                         6.png 	PSNR: 22.618334 dB  PSNR-Y: 24.341326 dB
+23-01-10 08:42:55.727 - INFO:   7 -                         7.png 	PSNR: 22.611870 dB  PSNR-Y: 24.296191 dB
+23-01-10 08:42:56.121 - INFO:   8 -                         8.png 	PSNR: 22.459758 dB  PSNR-Y: 24.172324 dB
+23-01-10 08:42:56.164 - INFO:   9 -                         9.png 	PSNR: 22.751674 dB  PSNR-Y: 24.442113 dB
+23-01-10 08:42:56.210 - INFO:  10 -                        10.png 	PSNR: 22.632704 dB  PSNR-Y: 24.354899 dB
+23-01-10 08:42:56.265 - INFO:  11 -                        11.png 	PSNR: 22.770328 dB  PSNR-Y: 24.467625 dB
+23-01-10 08:42:56.310 - INFO:  12 -                        12.png 	PSNR: 22.531884 dB  PSNR-Y: 24.257689 dB
+23-01-10 08:42:56.356 - INFO:  13 -                        13.png 	PSNR: 22.654473 dB  PSNR-Y: 24.345355 dB
+23-01-10 08:42:56.744 - INFO:  14 -                        14.png 	PSNR: 22.562622 dB  PSNR-Y: 24.301992 dB
+23-01-10 08:42:56.780 - INFO:  15 -                        15.png 	PSNR: 22.836183 dB  PSNR-Y: 24.542861 dB
+23-01-10 08:42:56.816 - INFO:  16 -                        16.png 	PSNR: 22.595206 dB  PSNR-Y: 24.333637 dB
+23-01-10 08:42:56.855 - INFO:  17 -                        17.png 	PSNR: 22.935315 dB  PSNR-Y: 24.653897 dB
+23-01-10 08:42:56.891 - INFO:  18 -                        18.png 	PSNR: 22.551152 dB  PSNR-Y: 24.288651 dB
+23-01-10 08:42:56.938 - INFO:  19 -                        19.png 	PSNR: 22.561366 dB  PSNR-Y: 24.255526 dB
+23-01-10 08:42:57.254 - INFO:  20 -                        20.png 	PSNR: 22.375138 dB  PSNR-Y: 24.096739 dB
+23-01-10 08:42:57.291 - INFO:  21 -                        21.png 	PSNR: 22.691563 dB  PSNR-Y: 24.391715 dB
+23-01-10 08:42:57.328 - INFO:  22 -                        22.png 	PSNR: 22.369862 dB  PSNR-Y: 24.083897 dB
+23-01-10 08:42:57.369 - INFO:  23 -                        23.png 	PSNR: 22.389338 dB  PSNR-Y: 24.062630 dB
+23-01-10 08:42:57.405 - INFO:  24 -                        24.png 	PSNR: 22.219816 dB  PSNR-Y: 23.900841 dB
+23-01-10 08:42:57.449 - INFO:  25 -                        25.png 	PSNR: 22.381238 dB  PSNR-Y: 24.059217 dB
+23-01-10 08:42:57.747 - INFO:  26 -                        26.png 	PSNR: 22.224641 dB  PSNR-Y: 23.922550 dB
+23-01-10 08:42:57.799 - INFO:  27 -                        27.png 	PSNR: 22.363297 dB  PSNR-Y: 24.041495 dB
+23-01-10 08:42:57.859 - INFO:  28 -                        28.png 	PSNR: 22.239950 dB  PSNR-Y: 23.924031 dB
+23-01-10 08:42:57.910 - INFO:  29 -                        29.png 	PSNR: 22.442688 dB  PSNR-Y: 24.128923 dB
+23-01-10 08:42:57.955 - INFO:  30 -                        30.png 	PSNR: 22.208644 dB  PSNR-Y: 23.908341 dB
+23-01-10 08:42:58.001 - INFO:  31 -                        31.png 	PSNR: 22.395962 dB  PSNR-Y: 24.078994 dB
+23-01-10 08:42:58.362 - INFO:  32 -                        32.png 	PSNR: 22.254559 dB  PSNR-Y: 23.965348 dB
+23-01-10 08:42:58.406 - INFO:  33 -                        33.png 	PSNR: 22.405993 dB  PSNR-Y: 24.087251 dB
+23-01-10 08:42:58.456 - INFO:  34 -                        34.png 	PSNR: 22.240868 dB  PSNR-Y: 23.933302 dB
+23-01-10 08:42:58.511 - INFO:  35 -                        35.png 	PSNR: 22.311723 dB  PSNR-Y: 23.993769 dB
+23-01-10 08:42:58.561 - INFO:  36 -                        36.png 	PSNR: 22.070361 dB  PSNR-Y: 23.759714 dB
+23-01-10 08:42:58.607 - INFO:  37 -                        37.png 	PSNR: 22.257036 dB  PSNR-Y: 23.936229 dB
+23-01-10 08:42:58.607 - INFO: Folder calendar - Average PSNR: 22.477341 dB PSNR-Y: 24.175999 dB for 37 frames; 
+23-01-10 08:43:01.541 - INFO:   1 -                         1.png 	PSNR: 25.925689 dB  PSNR-Y: 27.411168 dB
+23-01-10 08:43:01.582 - INFO:   2 -                         2.png 	PSNR: 26.013277 dB  PSNR-Y: 27.525571 dB
+23-01-10 08:43:01.619 - INFO:   3 -                         3.png 	PSNR: 26.485342 dB  PSNR-Y: 27.960819 dB
+23-01-10 08:43:01.656 - INFO:   4 -                         4.png 	PSNR: 26.710533 dB  PSNR-Y: 28.228271 dB
+23-01-10 08:43:01.710 - INFO:   5 -                         5.png 	PSNR: 26.735216 dB  PSNR-Y: 28.226495 dB
+23-01-10 08:43:01.755 - INFO:   6 -                         6.png 	PSNR: 26.248959 dB  PSNR-Y: 27.769040 dB
+23-01-10 08:43:01.858 - INFO:   7 -                         7.png 	PSNR: 26.810912 dB  PSNR-Y: 28.294719 dB
+23-01-10 08:43:02.319 - INFO:   8 -                         8.png 	PSNR: 26.894360 dB  PSNR-Y: 28.421449 dB
+23-01-10 08:43:02.369 - INFO:   9 -                         9.png 	PSNR: 26.781915 dB  PSNR-Y: 28.264884 dB
+23-01-10 08:43:02.422 - INFO:  10 -                        10.png 	PSNR: 26.194631 dB  PSNR-Y: 27.713461 dB
+23-01-10 08:43:02.483 - INFO:  11 -                        11.png 	PSNR: 26.077492 dB  PSNR-Y: 27.559534 dB
+23-01-10 08:43:02.541 - INFO:  12 -                        12.png 	PSNR: 26.143631 dB  PSNR-Y: 27.657858 dB
+23-01-10 08:43:02.620 - INFO:  13 -                        13.png 	PSNR: 26.078517 dB  PSNR-Y: 27.555077 dB
+23-01-10 08:43:03.461 - INFO:  14 -                        14.png 	PSNR: 25.754237 dB  PSNR-Y: 27.261121 dB
+23-01-10 08:43:03.504 - INFO:  15 -                        15.png 	PSNR: 25.939416 dB  PSNR-Y: 27.423656 dB
+23-01-10 08:43:03.547 - INFO:  16 -                        16.png 	PSNR: 25.677599 dB  PSNR-Y: 27.185632 dB
+23-01-10 08:43:03.588 - INFO:  17 -                        17.png 	PSNR: 25.760191 dB  PSNR-Y: 27.242386 dB
+23-01-10 08:43:03.630 - INFO:  18 -                        18.png 	PSNR: 25.417973 dB  PSNR-Y: 26.928230 dB
+23-01-10 08:43:03.672 - INFO:  19 -                        19.png 	PSNR: 25.790238 dB  PSNR-Y: 27.274798 dB
+23-01-10 08:43:04.001 - INFO:  20 -                        20.png 	PSNR: 25.787432 dB  PSNR-Y: 27.298208 dB
+23-01-10 08:43:04.054 - INFO:  21 -                        21.png 	PSNR: 25.976853 dB  PSNR-Y: 27.460692 dB
+23-01-10 08:43:04.097 - INFO:  22 -                        22.png 	PSNR: 25.867181 dB  PSNR-Y: 27.382582 dB
+23-01-10 08:43:04.142 - INFO:  23 -                        23.png 	PSNR: 26.171718 dB  PSNR-Y: 27.654281 dB
+23-01-10 08:43:04.185 - INFO:  24 -                        24.png 	PSNR: 26.553439 dB  PSNR-Y: 28.077786 dB
+23-01-10 08:43:04.224 - INFO:  25 -                        25.png 	PSNR: 26.880627 dB  PSNR-Y: 28.371019 dB
+23-01-10 08:43:05.659 - INFO:  26 -                        26.png 	PSNR: 26.666608 dB  PSNR-Y: 28.202258 dB
+23-01-10 08:43:05.747 - INFO:  27 -                        27.png 	PSNR: 26.691659 dB  PSNR-Y: 28.201744 dB
+23-01-10 08:43:05.802 - INFO:  28 -                        28.png 	PSNR: 26.949911 dB  PSNR-Y: 28.512590 dB
+23-01-10 08:43:05.843 - INFO:  29 -                        29.png 	PSNR: 27.380377 dB  PSNR-Y: 28.905323 dB
+23-01-10 08:43:05.884 - INFO:  30 -                        30.png 	PSNR: 26.629455 dB  PSNR-Y: 28.196178 dB
+23-01-10 08:43:05.929 - INFO:  31 -                        31.png 	PSNR: 26.502306 dB  PSNR-Y: 28.020474 dB
+23-01-10 08:43:05.929 - INFO: Folder city - Average PSNR: 26.306377 dB PSNR-Y: 27.812494 dB for 31 frames; 
+23-01-10 08:43:11.570 - INFO:   1 -                         1.png 	PSNR: 25.645061 dB  PSNR-Y: 27.217074 dB
+23-01-10 08:43:11.600 - INFO:   2 -                         2.png 	PSNR: 25.320607 dB  PSNR-Y: 26.896011 dB
+23-01-10 08:43:11.631 - INFO:   3 -                         3.png 	PSNR: 25.486728 dB  PSNR-Y: 27.075074 dB
+23-01-10 08:43:11.662 - INFO:   4 -                         4.png 	PSNR: 25.251150 dB  PSNR-Y: 26.809070 dB
+23-01-10 08:43:11.692 - INFO:   5 -                         5.png 	PSNR: 25.536720 dB  PSNR-Y: 27.079980 dB
+23-01-10 08:43:11.723 - INFO:   6 -                         6.png 	PSNR: 24.847256 dB  PSNR-Y: 26.390853 dB
+23-01-10 08:43:11.757 - INFO:   7 -                         7.png 	PSNR: 25.221467 dB  PSNR-Y: 26.748017 dB
+23-01-10 08:43:12.027 - INFO:   8 -                         8.png 	PSNR: 24.207645 dB  PSNR-Y: 25.703053 dB
+23-01-10 08:43:12.060 - INFO:   9 -                         9.png 	PSNR: 24.657214 dB  PSNR-Y: 26.174937 dB
+23-01-10 08:43:12.091 - INFO:  10 -                        10.png 	PSNR: 24.600491 dB  PSNR-Y: 26.133878 dB
+23-01-10 08:43:12.121 - INFO:  11 -                        11.png 	PSNR: 24.945666 dB  PSNR-Y: 26.484367 dB
+23-01-10 08:43:12.151 - INFO:  12 -                        12.png 	PSNR: 24.274509 dB  PSNR-Y: 25.859619 dB
+23-01-10 08:43:12.182 - INFO:  13 -                        13.png 	PSNR: 24.726099 dB  PSNR-Y: 26.243536 dB
+23-01-10 08:43:12.455 - INFO:  14 -                        14.png 	PSNR: 24.255002 dB  PSNR-Y: 25.770246 dB
+23-01-10 08:43:12.486 - INFO:  15 -                        15.png 	PSNR: 24.481742 dB  PSNR-Y: 26.008525 dB
+23-01-10 08:43:12.516 - INFO:  16 -                        16.png 	PSNR: 24.107332 dB  PSNR-Y: 25.601688 dB
+23-01-10 08:43:12.556 - INFO:  17 -                        17.png 	PSNR: 24.484625 dB  PSNR-Y: 25.973005 dB
+23-01-10 08:43:12.625 - INFO:  18 -                        18.png 	PSNR: 24.077673 dB  PSNR-Y: 25.594818 dB
+23-01-10 08:43:12.694 - INFO:  19 -                        19.png 	PSNR: 24.517635 dB  PSNR-Y: 25.995244 dB
+23-01-10 08:43:13.379 - INFO:  20 -                        20.png 	PSNR: 23.650967 dB  PSNR-Y: 25.143951 dB
+23-01-10 08:43:13.454 - INFO:  21 -                        21.png 	PSNR: 23.986920 dB  PSNR-Y: 25.459638 dB
+23-01-10 08:43:13.494 - INFO:  22 -                        22.png 	PSNR: 23.753764 dB  PSNR-Y: 25.240756 dB
+23-01-10 08:43:13.534 - INFO:  23 -                        23.png 	PSNR: 24.042044 dB  PSNR-Y: 25.500187 dB
+23-01-10 08:43:13.603 - INFO:  24 -                        24.png 	PSNR: 23.641816 dB  PSNR-Y: 25.131515 dB
+23-01-10 08:43:13.639 - INFO:  25 -                        25.png 	PSNR: 24.022593 dB  PSNR-Y: 25.485593 dB
+23-01-10 08:43:13.908 - INFO:  26 -                        26.png 	PSNR: 23.840258 dB  PSNR-Y: 25.367354 dB
+23-01-10 08:43:13.943 - INFO:  27 -                        27.png 	PSNR: 23.869998 dB  PSNR-Y: 25.414661 dB
+23-01-10 08:43:13.975 - INFO:  28 -                        28.png 	PSNR: 23.835321 dB  PSNR-Y: 25.361286 dB
+23-01-10 08:43:14.008 - INFO:  29 -                        29.png 	PSNR: 23.961349 dB  PSNR-Y: 25.448965 dB
+23-01-10 08:43:14.039 - INFO:  30 -                        30.png 	PSNR: 23.709300 dB  PSNR-Y: 25.231501 dB
+23-01-10 08:43:14.069 - INFO:  31 -                        31.png 	PSNR: 24.075589 dB  PSNR-Y: 25.554483 dB
+23-01-10 08:43:14.333 - INFO:  32 -                        32.png 	PSNR: 24.003668 dB  PSNR-Y: 25.495138 dB
+23-01-10 08:43:14.365 - INFO:  33 -                        33.png 	PSNR: 24.142434 dB  PSNR-Y: 25.636408 dB
+23-01-10 08:43:14.396 - INFO:  34 -                        34.png 	PSNR: 24.093482 dB  PSNR-Y: 25.582832 dB
+23-01-10 08:43:14.429 - INFO:  35 -                        35.png 	PSNR: 24.216775 dB  PSNR-Y: 25.679726 dB
+23-01-10 08:43:14.459 - INFO:  36 -                        36.png 	PSNR: 23.960944 dB  PSNR-Y: 25.465567 dB
+23-01-10 08:43:14.489 - INFO:  37 -                        37.png 	PSNR: 24.249840 dB  PSNR-Y: 25.713285 dB
+23-01-10 08:43:14.757 - INFO:  38 -                        38.png 	PSNR: 24.143491 dB  PSNR-Y: 25.633388 dB
+23-01-10 08:43:14.787 - INFO:  39 -                        39.png 	PSNR: 24.291974 dB  PSNR-Y: 25.776624 dB
+23-01-10 08:43:14.820 - INFO:  40 -                        40.png 	PSNR: 24.450492 dB  PSNR-Y: 25.965414 dB
+23-01-10 08:43:14.896 - INFO:  41 -                        41.png 	PSNR: 24.341618 dB  PSNR-Y: 25.821245 dB
+23-01-10 08:43:14.969 - INFO:  42 -                        42.png 	PSNR: 24.064662 dB  PSNR-Y: 25.644515 dB
+23-01-10 08:43:15.035 - INFO:  43 -                        43.png 	PSNR: 24.148126 dB  PSNR-Y: 25.643162 dB
+23-01-10 08:43:16.218 - INFO:  44 -                        44.png 	PSNR: 23.942886 dB  PSNR-Y: 25.445426 dB
+23-01-10 08:43:16.281 - INFO:  45 -                        45.png 	PSNR: 24.147444 dB  PSNR-Y: 25.661770 dB
+23-01-10 08:43:16.354 - INFO:  46 -                        46.png 	PSNR: 23.987981 dB  PSNR-Y: 25.486429 dB
+23-01-10 08:43:16.420 - INFO:  47 -                        47.png 	PSNR: 24.084265 dB  PSNR-Y: 25.553619 dB
+23-01-10 08:43:16.489 - INFO:  48 -                        48.png 	PSNR: 23.895948 dB  PSNR-Y: 25.402190 dB
+23-01-10 08:43:16.555 - INFO:  49 -                        49.png 	PSNR: 24.196283 dB  PSNR-Y: 25.667408 dB
+23-01-10 08:43:16.556 - INFO: Folder foliage - Average PSNR: 24.314221 dB PSNR-Y: 25.823939 dB for 49 frames; 
+23-01-10 08:43:21.761 - INFO:   1 -                         1.png 	PSNR: 28.585136 dB  PSNR-Y: 30.048730 dB
+23-01-10 08:43:21.838 - INFO:   2 -                         2.png 	PSNR: 28.075438 dB  PSNR-Y: 29.565409 dB
+23-01-10 08:43:21.905 - INFO:   3 -                         3.png 	PSNR: 29.052557 dB  PSNR-Y: 30.527998 dB
+23-01-10 08:43:21.982 - INFO:   4 -                         4.png 	PSNR: 28.254285 dB  PSNR-Y: 29.757063 dB
+23-01-10 08:43:22.051 - INFO:   5 -                         5.png 	PSNR: 28.906023 dB  PSNR-Y: 30.378426 dB
+23-01-10 08:43:22.129 - INFO:   6 -                         6.png 	PSNR: 27.946081 dB  PSNR-Y: 29.435937 dB
+23-01-10 08:43:22.203 - INFO:   7 -                         7.png 	PSNR: 28.587612 dB  PSNR-Y: 30.059415 dB
+23-01-10 08:43:23.570 - INFO:   8 -                         8.png 	PSNR: 27.504626 dB  PSNR-Y: 28.985636 dB
+23-01-10 08:43:23.647 - INFO:   9 -                         9.png 	PSNR: 28.796084 dB  PSNR-Y: 30.268556 dB
+23-01-10 08:43:23.744 - INFO:  10 -                        10.png 	PSNR: 26.336110 dB  PSNR-Y: 27.829653 dB
+23-01-10 08:43:23.819 - INFO:  11 -                        11.png 	PSNR: 28.894757 dB  PSNR-Y: 30.376712 dB
+23-01-10 08:43:23.897 - INFO:  12 -                        12.png 	PSNR: 26.236652 dB  PSNR-Y: 27.719078 dB
+23-01-10 08:43:24.000 - INFO:  13 -                        13.png 	PSNR: 28.378438 dB  PSNR-Y: 29.873248 dB
+23-01-10 08:43:25.451 - INFO:  14 -                        14.png 	PSNR: 26.805455 dB  PSNR-Y: 28.275752 dB
+23-01-10 08:43:25.511 - INFO:  15 -                        15.png 	PSNR: 28.839815 dB  PSNR-Y: 30.308213 dB
+23-01-10 08:43:25.570 - INFO:  16 -                        16.png 	PSNR: 25.889379 dB  PSNR-Y: 27.391011 dB
+23-01-10 08:43:25.630 - INFO:  17 -                        17.png 	PSNR: 28.781706 dB  PSNR-Y: 30.229524 dB
+23-01-10 08:43:25.695 - INFO:  18 -                        18.png 	PSNR: 24.926523 dB  PSNR-Y: 26.411094 dB
+23-01-10 08:43:25.759 - INFO:  19 -                        19.png 	PSNR: 28.421529 dB  PSNR-Y: 29.868470 dB
+23-01-10 08:43:27.213 - INFO:  20 -                        20.png 	PSNR: 26.465240 dB  PSNR-Y: 27.968455 dB
+23-01-10 08:43:27.291 - INFO:  21 -                        21.png 	PSNR: 28.843978 dB  PSNR-Y: 30.287291 dB
+23-01-10 08:43:27.366 - INFO:  22 -                        22.png 	PSNR: 24.854111 dB  PSNR-Y: 26.365647 dB
+23-01-10 08:43:27.428 - INFO:  23 -                        23.png 	PSNR: 28.700434 dB  PSNR-Y: 30.139474 dB
+23-01-10 08:43:27.491 - INFO:  24 -                        24.png 	PSNR: 25.654268 dB  PSNR-Y: 27.120336 dB
+23-01-10 08:43:27.557 - INFO:  25 -                        25.png 	PSNR: 28.397209 dB  PSNR-Y: 29.839665 dB
+23-01-10 08:43:29.006 - INFO:  26 -                        26.png 	PSNR: 25.404370 dB  PSNR-Y: 26.863714 dB
+23-01-10 08:43:29.079 - INFO:  27 -                        27.png 	PSNR: 29.073559 dB  PSNR-Y: 30.534922 dB
+23-01-10 08:43:29.143 - INFO:  28 -                        28.png 	PSNR: 25.402582 dB  PSNR-Y: 26.892563 dB
+23-01-10 08:43:29.215 - INFO:  29 -                        29.png 	PSNR: 29.051922 dB  PSNR-Y: 30.522153 dB
+23-01-10 08:43:29.308 - INFO:  30 -                        30.png 	PSNR: 25.496958 dB  PSNR-Y: 27.002061 dB
+23-01-10 08:43:29.415 - INFO:  31 -                        31.png 	PSNR: 28.481904 dB  PSNR-Y: 29.940302 dB
+23-01-10 08:43:31.333 - INFO:  32 -                        32.png 	PSNR: 25.102987 dB  PSNR-Y: 26.556896 dB
+23-01-10 08:43:31.408 - INFO:  33 -                        33.png 	PSNR: 28.833835 dB  PSNR-Y: 30.263301 dB
+23-01-10 08:43:31.492 - INFO:  34 -                        34.png 	PSNR: 26.201236 dB  PSNR-Y: 27.676625 dB
+23-01-10 08:43:31.579 - INFO:  35 -                        35.png 	PSNR: 28.920482 dB  PSNR-Y: 30.344365 dB
+23-01-10 08:43:31.671 - INFO:  36 -                        36.png 	PSNR: 25.743005 dB  PSNR-Y: 27.271086 dB
+23-01-10 08:43:31.752 - INFO:  37 -                        37.png 	PSNR: 28.579385 dB  PSNR-Y: 30.008303 dB
+23-01-10 08:43:33.156 - INFO:  38 -                        38.png 	PSNR: 26.045390 dB  PSNR-Y: 27.599723 dB
+23-01-10 08:43:33.231 - INFO:  39 -                        39.png 	PSNR: 29.251725 dB  PSNR-Y: 30.687929 dB
+23-01-10 08:43:33.298 - INFO:  40 -                        40.png 	PSNR: 24.938756 dB  PSNR-Y: 26.518575 dB
+23-01-10 08:43:33.375 - INFO:  41 -                        41.png 	PSNR: 29.127622 dB  PSNR-Y: 30.572694 dB
+23-01-10 08:43:33.442 - INFO:  42 -                        42.png 	PSNR: 25.889981 dB  PSNR-Y: 27.401535 dB
+23-01-10 08:43:33.509 - INFO:  43 -                        43.png 	PSNR: 28.666565 dB  PSNR-Y: 30.127988 dB
+23-01-10 08:43:33.509 - INFO: Folder walk - Average PSNR: 27.496412 dB PSNR-Y: 28.972454 dB for 43 frames; 
+23-01-10 08:43:33.510 - INFO: ################ Tidy Outputs ################
+23-01-10 08:43:33.510 - INFO: Folder calendar - Average PSNR: 22.477341 dB PSNR-Y: 24.175999 dB. 
+23-01-10 08:43:33.510 - INFO: Folder city - Average PSNR: 26.306377 dB PSNR-Y: 27.812494 dB. 
+23-01-10 08:43:33.510 - INFO: Folder foliage - Average PSNR: 24.314221 dB PSNR-Y: 25.823939 dB. 
+23-01-10 08:43:33.510 - INFO: Folder walk - Average PSNR: 27.496412 dB PSNR-Y: 28.972454 dB. 
+23-01-10 08:43:33.510 - INFO: ################ Final Results ################
+23-01-10 08:43:33.510 - INFO: Data: Vid4 - /remote-home/cs_cs_lj/zhj/BasicSR/datasets/Vid4_matlab/matlab_BDx4/*
+23-01-10 08:43:33.510 - INFO: Padding mode: replicate
+23-01-10 08:43:33.510 - INFO: Model path: /remote-home/cs_cs_lj/zjj/bd_7mystvsr/experiments/bd7stvsr/models/595000_G.pth
+23-01-10 08:43:33.510 - INFO: Save images: False
+23-01-10 08:43:33.510 - INFO: Flip Test: False
+23-01-10 08:43:33.510 - INFO: Total Average PSNR: 25.148588 dB PSNR-Y: 26.696221 dB for 4 clips. 
