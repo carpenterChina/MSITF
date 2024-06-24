@@ -1,6 +1,6 @@
 # MSITF
 
-[Space-Time Video Super-Resolution via Multi-Scale Feature Interpolation and Temporal Feature Fusion]([https://arxiv.org/abs/2104.08860](https://assets-eu.researchsquare.com/files/rs-4342774/v1_covered_541a56ba-e74d-4b11-88f1-bd8cdf8b6b32.pdf?c=1715322593))
+Paper[Space-Time Video Super-Resolution via Multi-Scale Feature Interpolation and Temporal Feature Fusion](https://www.bing.com/ck/a?!&&p=ac6686848f9fa00eJmltdHM9MTcxOTEwMDgwMCZpZ3VpZD0zYjc2OGNjNi0zNGJmLTZmYjAtMjE1Ny05ZjhjMzVkOTZlYTUmaW5zaWQ9NTE4Mw&ptn=3&ver=2&hsh=3&fclid=3b768cc6-34bf-6fb0-2157-9f8c35d96ea5&psq=Space-Time+Video+Super-Resolution+via+Multi-Scale+Feature+Interpolation+and+Temporal+Feature+Fusion&u=a1aHR0cHM6Ly93d3cucmVzZWFyY2hzcXVhcmUuY29tL2FydGljbGUvcnMtNDM0Mjc3NC92MS5wZGY_Yz0xNzE1MzM2OTkzMDAw&ntb=1)
 
 <!-- [ALGORITHM] -->
 
@@ -8,13 +8,9 @@
 
 <!-- [ABSTRACT] -->
 
-The goal of Space-Time Video Super-Resolution (STVSR) is to simultaneously increase the spatial resolution and frame rate of low-resolution, low-frame-rate video. In response to the problem that the STVSR method does not fully consider the spatio-temporal correlation between successive video frames, which makes the video frame reconstruction results unsatisfactory, and the problem that the inference speed of large models is slow. This paper proposes a STVSR method based on Multi-Scale Feature Interpolation and Temporal Feature Fusion (MSITF). First, feature interpolation is performed in the low-resolution feature space to obtain the features corresponding to the missing frames. The feature is then enhanced using deformable convolution with the aim of obtaining a more accurate feature of the missing frames. Finally, the temporal alignment and global context learning of sequence frame features are performed by a temporal feature fusion module to fully extract and utilize the useful spatio-temporal information in adjacent frames, resulting in better quality of the reconstructed video frames. Extensive experiments on the benchmark datasets Vid4 and Vimeo-90k show that the proposed method achieves better qualitative and quantitative performance, with PSNR and SSIM on the Vid4 dataset improving by 0.8\% and 1.9\%, respectively, over the state-of-the-art two-stage method AdaCof+TTVSR, and MSITF improved by 1.2\% and 2.5\%, respectively, compared to single-stage method RSTT. The number of parameters decreased by 80.4\% and 8.2\% compared to the AdaCof+TTVSR and RSTT, respectively.We release our code at \href{https://github.com/carpenterChina/MSITF}{https://github.com/carpenterChina/MSITF.}
+The goal of Space-Time Video Super-Resolution (STVSR) is to simultaneously increase the spatial resolution and frame rate of low-resolution, low-frame-rate video. In response to the problem that the STVSR method does not fully consider the spatio-temporal correlation between successive video frames, which makes the video frame reconstruction results unsatisfactory, and the problem that the inference speed of large models is slow. This paper proposes a STVSR method based on Multi-Scale Feature Interpolation and Temporal Feature Fusion (MSITF). First, feature interpolation is performed in the low-resolution feature space to obtain the features corresponding to the missing frames. The feature is then enhanced using deformable convolution with the aim of obtaining a more accurate feature of the missing frames. Finally, the temporal alignment and global context learning of sequence frame features are performed by a temporal feature fusion module to fully extract and utilize the useful spatio-temporal information in adjacent frames, resulting in better quality of the reconstructed video frames. Extensive experiments on the benchmark datasets Vid4 and Vimeo-90k show that the proposed method achieves better qualitative and quantitative performance, with PSNR and SSIM on the Vid4 dataset improving by 0.8\% and 1.9\%, respectively, over the state-of-the-art two-stage method AdaCof+TTVSR, and MSITF improved by 1.2\% and 2.5\%, respectively, compared to single-stage method RSTT. The number of parameters decreased by 80.4\% and 8.2\% compared to the AdaCof+TTVSR and RSTT, respectively.
 
-<!-- [IMAGE] -->
 
-<div align=center>
-<img src="https://github.com/Dai-Wenxun/mmaction2/assets/58767402/f91fc927-d5f2-41dd-8198-def71d392991" width="800"/>
-</div>
 
 ## Environment
 python >= 3.6
